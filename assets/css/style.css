@@ -1,0 +1,10 @@
+.navbar-brand{
+    font-family: 'Poppins', sans-serif;
+}
+
+.brd-bot{
+    border-bottom: 1px grey solid;
+}
+.container{
+    margin-top: 10px;
+}
